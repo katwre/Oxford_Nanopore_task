@@ -1,0 +1,8 @@
+Building DAG of jobs...
+WorkflowError:
+MissingInputException: Missing input files for rule minimap2:
+data/ten_species_community_refs.fa
+data/reads.sorted.fa
+MissingInputException: Missing input files for rule minimap2:
+data/ten_species_community_refs.fa
+data/reads.fa
